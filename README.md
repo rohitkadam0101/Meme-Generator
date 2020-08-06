@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Simple Meme-Generator app made with ReactJS and API
+## Features
+- User can enter top text and bottom text in meme through form
+- more than 100 random meme images
+- responsive works in any devices
 
 ## Available Scripts
 
